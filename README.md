@@ -1,1 +1,1 @@
-# classroom.js.org
+# Epoxy Development - Classroom
