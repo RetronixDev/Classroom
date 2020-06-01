@@ -1,2 +1,2 @@
 # Epoxy Development - Classroom
-> The official Epoxy Development Classroom to leanrn about javascript!
+> The official Epoxy Development Classroom to learn about javascript!
